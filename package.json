@@ -1,0 +1,11 @@
+{
+  "name": "sbom-lab",
+  "version": "1.0.0",
+  "description": "Bai thuc hanh SBOM",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1",
+    "lodash": "4.17.15"
+  }
+}
